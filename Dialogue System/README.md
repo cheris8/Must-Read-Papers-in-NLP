@@ -3,7 +3,7 @@
 **Wizard of Wikipedia: Knowledge-Powered Conversational agents**. Emily Dinan, Stephen Roller, Kurt Shuster, Angela Fan, Michael Auli, Jason Weston.
 - [paper](https://arxiv.org/pdf/1811.01241)
 
-**Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring.** Samuel Humeau, Kurt Shuster, Marie-Anne Lachaux, Jason Weston. ICLR 2020.
+>Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring.** Samuel Humeau, Kurt Shuster, Marie-Anne Lachaux, Jason Weston. ICLR 2020.
 - [paper](https://arxiv.org/pdf/1905.01969)
 
 **Training Millions of Personalized Dialogue Agents**. Pierre-Emmanuel Mazaré, Samuel Humeau, Martin Raison, Antoine Bordes. EMNLP 2018.
