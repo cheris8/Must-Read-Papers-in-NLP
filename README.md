@@ -7,19 +7,6 @@
 - Dialogue System
 - Knowledge Distillation
 
-## Machine Reading Comprehension
-
-**Memory Networks**. Jason Weston, Sumit Chopra, Antoine Bordes.
-- [paper](https://arxiv.org/pdf/1410.3916)
-
-**End-To-End Memory Networks**. Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus. NIPS 2015.
-- [paper](https://arxiv.org/pdf/1503.08895)
-
-**Long Short-Term Memory-Networks for Machine Reading**. Jianpeng Cheng, Li Dong, Mirella Lapata. EMNLP 2016.
-- [paper](https://arxiv.org/pdf/1601.06733)
-
-**Bidirectional Attention Flow for Machine Comprehension**. Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, Hannaneh Hajishirzi. ICLR 2017.
-- [paper](https://arxiv.org/pdf/1611.01603)
 
 ## Knowledge Distillation
 
