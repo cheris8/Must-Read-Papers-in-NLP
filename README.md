@@ -21,7 +21,7 @@
 
 *(fastText)* **Enriching Word Vectors with Subword Information.** Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov. ACL 2017.
 
-- [paper](https://arxiv.org/pdf/1607.04606.pdf)
+- [[paper](https://arxiv.org/pdf/1607.04606.pdf)]
 
 *(ELMo)* **Deep contextualized word representations.** Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer. NAACL 2018.
 

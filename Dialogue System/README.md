@@ -61,4 +61,7 @@
 **Training Millions of Personalized Dialogue Agents**. Pierre-Emmanuel Mazaré, Samuel Humeau, Martin Raison, Antoine Bordes. EMNLP 2018.
 - [paepr](https://arxiv.org/pdf/1809.01984.pdf)
 
+*(WoW)* **Wizard of Wikipedia: Knowledge-Powered Conversational agents.** Emily Dinan, Stephen Roller, Kurt Shuster, Angela Fan, Michael Auli, Jason Weston. ICLR 2019.
+- [paper](https://arxiv.org/pdf/1811.01241.pdf)
+
 *(Dialogue NLI)* **Dialogue Natural Language Inference.** Sean Welleck, Jason Weston, Arthur Szlam, Kyunghyun Cho.
